@@ -16,9 +16,6 @@
                 <!-- E o comando align="Right or left" vi estar alinhando sua imagem a Esquerda ou a direita isso é utilizado antigamento hoje é mais comum realizar todo o
                  processo por meio do Css.-->
                  <p class="end">
-                &nbsp;Res: Formosa, Goiás, Brasil<br>
-                &nbsp;End: Jardim Carliforna, Nº33<br>
-                &nbsp;Num: (61) 9 9983-4122<br>
                 &nbsp;linkedin:&nbsp;<a href="https://www.linkedin.com/in/felipe-musashi-48029b279/" target="_blank">Linkedin</a><br> <!--Referenciador de link você utiliza a tag "a href="""
                                         com isso ele vai abrir na mesma tela agora se você quiser abrir em uma tela nova tem que informar"target="_blank"" -->
                 &nbsp;Instagram:&nbsp;<a href="@musashifga">@Musashi</a>
